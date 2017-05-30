@@ -1,1 +1,1 @@
-��python��ĸ��˲���
+用python搭建的个人博客
